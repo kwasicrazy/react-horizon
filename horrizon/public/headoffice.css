@@ -1,0 +1,45 @@
+.logo{
+	border-radius: 50%;
+}
+
+
+u{
+	color: blueviolet;
+}
+
+.flags{
+	margin-left: 400px;
+}
+
+.about{
+}
+h2{
+	margin-top: 100px;
+}
+
+.container1{
+	display: flex;
+	margin-left: 10px;
+
+}
+h3{
+	color: floralwhite;
+	padding-left: 50px;
+}
+
+h4{
+	color: brown;
+}
+.footer{
+	margin-top: 50px;
+	background-color: darkblue;
+}
+
+h5{
+	color: yellow;
+}
+
+.footer p{
+	line-height: 15px;
+	color: whitesmoke;
+}
